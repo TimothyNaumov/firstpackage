@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TimothyNaumov/firstpackage/issues"
   },
-  "homepage": "https://github.com/TimothyNaumov/firstpackage#readme"
+  "homepage": "https://github.com/TimothyNaumov/firstpackage#readme",
+  "publicConfig": {
+    "registry": "https://npm.pkg.github.com/@timothynaumov"
+  }
 }
